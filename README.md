@@ -26,7 +26,7 @@ dotfileRe().test('a/b/c.js');
 Install dev dependencies:
 
 ```bash
-node i -d && mocha
+npm i -d && npm test
 ```
 
 ## Contributing
