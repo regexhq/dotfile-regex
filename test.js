@@ -1,5 +1,5 @@
 /*!
- * dotfile-regex <https://github.com/jonschlinkert/dotfile-regex>
+ * dotfile-regex <https://github.com/regexps/dotfile-regex>
  *
  * Copyright (c) 2015 Jon Schlinkert.
  * Licensed under the MIT License
