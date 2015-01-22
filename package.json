@@ -1,0 +1,44 @@
+{
+  "name": "dotfile-regex",
+  "description": "Regular expresson for matching dotfiles.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/regexps/dotfile-regex",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/regexps/dotfile-regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regexps/dotfile-regex/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/regexps/dotfile-regex/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "detect",
+    "dotfile",
+    "expression",
+    "find",
+    "match",
+    "regex",
+    "regexp",
+    "regular"
+  ]
+}
