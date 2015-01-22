@@ -13,6 +13,7 @@ npm i dotfile-regex --save
 ```js
 var dotfileRe = require('dotfile-regex');
 
+var re = dotfileRe();
 var match = re.exec('a/b/c/d/.gitignore');
 // match[0] => '/.gitignore'
 // match[1] => '.gitignore'
