@@ -1,7 +1,7 @@
 {
   "name": "dotfile-regex",
   "description": "Regular expresson for matching dotfiles.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/regexhq/dotfile-regex",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
