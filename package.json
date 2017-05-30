@@ -2,7 +2,7 @@
   "name": "dotfile-regex",
   "description": "Regular expresson for matching dotfiles.",
   "version": "1.0.1",
-  "homepage": "https://github.com/regexps/dotfile-regex",
+  "homepage": "https://github.com/regexhq/dotfile-regex",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "Haoliang Gao (chuo.me)",
@@ -10,9 +10,9 @@
     "Jon Schlinkert (http://twitter.com/jonschlinkert)",
     "Sindre Sorhus (https://sindresorhus.com)"
   ],
-  "repository": "regexps/dotfile-regex",
+  "repository": "regexhq/dotfile-regex",
   "bugs": {
-    "url": "https://github.com/regexps/dotfile-regex/issues"
+    "url": "https://github.com/regexhq/dotfile-regex/issues"
   },
   "license": "MIT",
   "files": [

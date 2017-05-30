@@ -1,4 +1,4 @@
-# dotfile-regex [![NPM version](https://img.shields.io/npm/v/dotfile-regex.svg?style=flat)](https://www.npmjs.com/package/dotfile-regex) [![NPM monthly downloads](https://img.shields.io/npm/dm/dotfile-regex.svg?style=flat)](https://npmjs.org/package/dotfile-regex) [![NPM total downloads](https://img.shields.io/npm/dt/dotfile-regex.svg?style=flat)](https://npmjs.org/package/dotfile-regex) [![Linux Build Status](https://img.shields.io/travis/regexps/dotfile-regex.svg?style=flat&label=Travis)](https://travis-ci.org/regexps/dotfile-regex)
+# dotfile-regex [![NPM version](https://img.shields.io/npm/v/dotfile-regex.svg?style=flat)](https://www.npmjs.com/package/dotfile-regex) [![NPM monthly downloads](https://img.shields.io/npm/dm/dotfile-regex.svg?style=flat)](https://npmjs.org/package/dotfile-regex) [![NPM total downloads](https://img.shields.io/npm/dt/dotfile-regex.svg?style=flat)](https://npmjs.org/package/dotfile-regex) [![Linux Build Status](https://img.shields.io/travis/regexhq/dotfile-regex.svg?style=flat&label=Travis)](https://travis-ci.org/regexhq/dotfile-regex)
 
 > Regular expresson for matching dotfiles.
 
