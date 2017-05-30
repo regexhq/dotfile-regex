@@ -12,22 +12,23 @@ $ npm install --save dotfile-regex
 
 ## Usage
 
-To be considered a dotfile, there cannot be any slashes following the filename.
+To be considered a dot **file**:
+
+* the path must contain a dot that is at the beginning of the string or following a slash
+* the next character after the dot must not be another dot
+* one or more characters must follow the dot
+* a slash must not follow the dot
+
+To check for dot **directories**, use [dotdir-regex](https://github.com/regexps/dotdir-regex) instead.
 
 ```js
 var dotfileRegex = require('dotfile-regex');
 
-<<<<<<< b03aa66eaf952cedfa73eadacaaffdb3b0b5d9c7
-var match = dotfileRe().exec('a/b/c/d/.gitignore');
-// match[0] => '/.gitignore'
-// match[1] => '.gitignore'
-=======
 dotfileRegex().test('a/b/c.js');
 //=> false
 
 dotfileRegex().test('./git');
 //=> false
->>>>>>> 3e91728a328359f1f04fe975756b7c90913dab74
 
 dotfileRegex().test('.git/foo');
 //=> false
